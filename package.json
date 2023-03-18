@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "vikray-2.0--backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemesis-imgcup/Vikray-2.0--Backend.git"
+  },
+  "author": "SAMBIT CHAKRABORTY, SAWAN BHATTACHARYYA, RAJDIP BHATTACHARYYA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemesis-imgcup/Vikray-2.0--Backend/issues"
+  },
+  "homepage": "https://github.com/Nemesis-imgcup/Vikray-2.0--Backend#readme"
+}
