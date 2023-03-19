@@ -13,7 +13,6 @@ app.get("/api", (req, res) => {
 });
 var server = app.listen(PORT, () => {
     let { port, address } = server.address();
-    // console.log(`\x1b[34m Server started on port ${PORT}  \x1b[0m`);
     console.log(` \x1b[32m 🚀 [server]: Server started on ${address === "::" ? "http://localhost" : `https://${address}`}:${port}/api/ \x1b[0m`);
 });
 // Change the port number if it is already in use
